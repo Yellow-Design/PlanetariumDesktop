@@ -1,0 +1,3256 @@
+fileFormatVersion: 2
+guid: 636eb17c6fc5442c38c844deb316c70d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: '! rocket'
+    100002: AuxHose1
+    100004: AuxHose2
+    100006: AuxHose3
+    100008: AuxHose4
+    100010: AuxHose5
+    100012: AuxHose6
+    100014: Axis
+    100016: Axis 1
+    100018: Axis 10
+    100020: Axis 11
+    100022: Axis 12
+    100024: Axis 13
+    100026: Axis 14
+    100028: Axis 15
+    100030: Axis 16
+    100032: Axis 17
+    100034: Axis 18
+    100036: Axis 19
+    100038: Axis 2
+    100040: Axis 20
+    100042: Axis 21
+    100044: Axis 22
+    100046: Axis 23
+    100048: Axis 24
+    100050: Axis 25
+    100052: Axis 26
+    100054: Axis 27
+    100056: Axis 28
+    100058: Axis 29
+    100060: Axis 3
+    100062: Axis 30
+    100064: Axis 31
+    100066: Axis 32
+    100068: Axis 33
+    100070: Axis 34
+    100072: Axis 35
+    100074: Axis 36
+    100076: Axis 37
+    100078: Axis 38
+    100080: Axis 39
+    100082: Axis 4
+    100084: Axis 40
+    100086: Axis 41
+    100088: Axis 5
+    100090: Axis 6
+    100092: Axis 7
+    100094: Axis 8
+    100096: Axis 9
+    100098: Camera1
+    100100: Camera10
+    100102: Camera11
+    100104: Camera12
+    100106: Camera13
+    100108: Camera14
+    100110: Camera15
+    100112: Camera16
+    100114: Camera2
+    100116: Camera3
+    100118: Camera4
+    100120: Camera5
+    100122: Camera6
+    100124: Camera7
+    100126: Camera8
+    100128: Camera9
+    100130: CranePivot
+    100132: CraneShed
+    100134: ElevatorShaft
+    100136: ElevatorShaft1
+    100138: ElevatorShaft10
+    100140: ElevatorShaft11
+    100142: ElevatorShaft12
+    100144: ElevatorShaft13
+    100146: ElevatorShaft14
+    100148: ElevatorShaft15
+    100150: ElevatorShaft2
+    100152: ElevatorShaft2 1
+    100154: ElevatorShaft3
+    100156: ElevatorShaft4
+    100158: ElevatorShaft5
+    100160: ElevatorShaft6
+    100162: ElevatorShaft7
+    100164: ElevatorShaft8
+    100166: ElevatorShaft9
+    100168: Engine1Supp1
+    100170: EscapeHead
+    100172: EscapeRockets
+    100174: EscapeScaffolding
+    100176: ExtPipe1
+    100178: ExtPipe1 1
+    100180: ExtPipe1 2
+    100182: ExtPipe1 3
+    100184: ExtPipe1 4
+    100186: ExtPipe1 5
+    100188: ExtPipe1 6
+    100190: ExtPipe1 7
+    100192: ExtPipe2
+    100194: ExtPipe2 1
+    100196: ExtPipe2 2
+    100198: ExtPipe2 3
+    100200: ExtPipe2 4
+    100202: ExtPipe2 5
+    100204: ExtPipe2 6
+    100206: ExtPipe2 7
+    100208: extrudedSurface3
+    100210: extrudedSurface3 1
+    100212: extrudedSurface3 2
+    100214: extrudedSurface3 3
+    100216: extrudedSurface3 4
+    100218: extrudedSurface3 5
+    100220: extrudedSurface3 6
+    100222: extrudedSurface3 7
+    100224: extrudedSurface4
+    100226: extrudedSurface6
+    100228: extrudedSurface7
+    100230: extrudedSurface8
+    100232: F1_Engine2
+    100234: F1_Engine3
+    100236: F1_Engine4
+    100238: F1_Engine5
+    100240: F1_Engine6
+    100242: Group001
+    100244: Group001 1
+    100246: Group002
+    100248: Group002 1
+    100250: Group003
+    100252: Group003 1
+    100254: Group004
+    100256: Group005
+    100258: Group006
+    100260: Group007
+    100262: Group008
+    100264: Group009
+    100266: Group010
+    100268: Group011
+    100270: Group012
+    100272: group5
+    100274: group6
+    100276: grpApolloPlatform
+    100278: grpOrbiter
+    100280: grpSaturnV
+    100282: HeliumTanks
+    100284: HiGain
+    100286: HLine1
+    100288: HLine2
+    100290: HLine3
+    100292: HLine4
+    100294: HLine5
+    100296: Hoist1
+    100298: Hoist1Spindle
+    100300: Hoist1Spindle1
+    100302: Hoist1Support
+    100304: Hoist1Support1
+    100306: Hoist2
+    100308: HydroPipe
+    100310: HydroPipe 1
+    100312: HydroPipe 2
+    100314: HydroPipe 3
+    100316: HydroPipe 4
+    100318: HydroPipe 5
+    100320: HydroPipe 6
+    100322: HydroPipe 7
+    100324: HydrShelf
+    100326: HydrShelf 1
+    100328: HydrShelf 2
+    100330: HydrShelf 3
+    100332: HydrShelf 4
+    100334: HydrShelf 5
+    100336: HydrShelf 6
+    100338: HydrShelf 7
+    100340: HydrShelf 8
+    100342: InstrumentUnitExterior1
+    100344: InstrumentUnitInterior
+    100346: InstrumentUnitInterior1
+    100348: IUAnt1
+    100350: IUAnt2
+    100352: IUAnt3
+    100354: IUCoil
+    100356: IUMesh
+    100358: //RootNode
+    100360: LeftScaffolding
+    100362: LightTower
+    100364: Line001
+    100366: LoGain1
+    100368: LoGain2
+    100370: LoGain3
+    100372: LoGain4
+    100374: MainDockArm
+    100376: MainDockArm 1
+    100378: MainDockArm 2
+    100380: MainDockArm 3
+    100382: MainDockArm 4
+    100384: MainDockArm 5
+    100386: MainDockArm 6
+    100388: MainDockArm 7
+    100390: MainDockArm 8
+    100392: MainEntryGroup
+    100394: MainEntryGroup1
+    100396: MainEntryGroup2
+    100398: MainEntryGroup3
+    100400: MainEntryGroup4
+    100402: MainEntryGroup5
+    100404: MainEntryGroup6
+    100406: MainEntryGroup7
+    100408: MainEntryGroup8
+    100410: MainLadder1
+    100412: MainLadder10
+    100414: MainLadder11
+    100416: MainLadder12
+    100418: MainLadder13
+    100420: MainLadder14
+    100422: MainLadder15
+    100424: MainLadder16
+    100426: MainLadder2
+    100428: MainLadder3
+    100430: MainLadder3 1
+    100432: MainLadder4
+    100434: MainLadder5
+    100436: MainLadder6
+    100438: MainLadder7
+    100440: MainLadder8
+    100442: MainLadder9
+    100444: MainRail1
+    100446: MainRail10
+    100448: MainRail11
+    100450: MainRail12
+    100452: MainRail13
+    100454: MainRail14
+    100456: MainRail15
+    100458: MainRail16
+    100460: MainRail17
+    100462: MainRail18
+    100464: MainRail2
+    100466: MainRail3
+    100468: MainRail4
+    100470: MainRail5
+    100472: MainRail5 1
+    100474: MainRail6
+    100476: MainRail7
+    100478: MainRail8
+    100480: MainRail9
+    100482: OrbiterENGINE
+    100484: OrbiterExterior
+    100486: OrbiterShell
+    100488: OrbiterVent
+    100490: pCube17
+    100492: pCube18
+    100494: pCube19
+    100496: pCube20
+    100498: pCube21
+    100500: pCube22
+    100502: pCube23
+    100504: pCube24
+    100506: pCube29
+    100508: pCylinder10
+    100510: pCylinder11
+    100512: pCylinder12
+    100514: pCylinder2
+    100516: pCylinder3
+    100518: pCylinder4
+    100520: pCylinder5
+    100522: pCylinder6
+    100524: pCylinder7
+    100526: pCylinder8
+    100528: pCylinder9
+    100530: PhysCamera003
+    100532: PhysCamera004
+    100534: plaatform001
+    100536: Plane002
+    100538: Platform1
+    100540: Platform10
+    100542: Platform11
+    100544: Platform12
+    100546: Platform13
+    100548: Platform14
+    100550: Platform15
+    100552: Platform16
+    100554: Platform2
+    100556: Platform3
+    100558: Platform3 1
+    100560: Platform4
+    100562: Platform5
+    100564: Platform6
+    100566: Platform7
+    100568: Platform8
+    100570: Platform9
+    100572: PlatformRail1
+    100574: PlatformRail10
+    100576: PlatformRail11
+    100578: PlatformRail12
+    100580: PlatformRail13
+    100582: PlatformRail14
+    100584: PlatformRail15
+    100586: PlatformRail16
+    100588: PlatformRail17
+    100590: PlatformRail18
+    100592: PlatformRail19
+    100594: PlatformRail2
+    100596: PlatformRail20
+    100598: PlatformRail21
+    100600: PlatformRail22
+    100602: PlatformRail23
+    100604: PlatformRail24
+    100606: PlatformRail25
+    100608: PlatformRail26
+    100610: PlatformRail27
+    100612: PlatformRail28
+    100614: PlatformRail29
+    100616: PlatformRail3
+    100618: PlatformRail30
+    100620: PlatformRail31
+    100622: PlatformRail32
+    100624: PlatformRail4
+    100626: PlatformRail5
+    100628: PlatformRail5 1
+    100630: PlatformRail6
+    100632: PlatformRail6 1
+    100634: PlatformRail7
+    100636: PlatformRail8
+    100638: PlatformRail9
+    100640: polySurface108
+    100642: polySurface147
+    100644: polySurface148
+    100646: polySurface150
+    100648: polySurface151
+    100650: polySurface152
+    100652: polySurface170
+    100654: polySurface180
+    100656: polySurface181
+    100658: polySurface182
+    100660: polySurface199
+    100662: polySurface200
+    100664: polySurface210
+    100666: polySurface280
+    100668: polySurface286
+    100670: polySurface303
+    100672: polySurface304
+    100674: polySurface305
+    100676: polySurface306
+    100678: polySurface307
+    100680: polyToSubd1
+    100682: Rectangle001
+    100684: Retro1
+    100686: Retro2
+    100688: Retro3
+    100690: Retro4
+    100692: RightScaffolding
+    100694: RocketBasePlate
+    100696: scaffold
+    100698: ScaffShelf1
+    100700: ScaffShelf1 1
+    100702: ScaffShelf1 2
+    100704: ScaffShelf1 3
+    100706: ScaffShelf1 4
+    100708: ScaffShelf1 5
+    100710: ScaffShelf1 6
+    100712: ScaffShelf1 7
+    100714: ScaffShelf1 8
+    100716: ScaffShelf2
+    100718: ScaffShelf2 1
+    100720: ScaffShelf2 2
+    100722: ScaffShelf2 3
+    100724: ScaffShelf2 4
+    100726: ScaffShelf2 5
+    100728: ScaffShelf2 6
+    100730: ScaffShelf2 7
+    100732: ScaffShelf2 8
+    100734: SideRail1
+    100736: SideRail2
+    100738: SideRailSupp
+    100740: SideRailSupp1
+    100742: SideRailSupp2
+    100744: SideRailSupp3
+    100746: SideRailSupp4
+    100748: SideRailSupp5
+    100750: SideRailSupp6
+    100752: SideRailSupp7
+    100754: SideRailSupp8
+    100756: Stage1AdapterExterior1
+    100758: Stage1AdapterInterior
+    100760: Stage1Exterior
+    100762: Stage1UpperGuard
+    100764: Stage1UpperTank
+    100766: Stage1Wing1
+    100768: Stage1Wing2
+    100770: Stage1Wing3
+    100772: Stage1Wing4
+    100774: Stage2AdapterExterior1
+    100776: Stage2AdapterInterior1
+    100778: Stage2Aux1
+    100780: Stage2Aux2
+    100782: Stage2CenterEngineRing
+    100784: Stage2Engine1
+    100786: Stage2Engine2
+    100788: Stage2Engine3
+    100790: Stage2Engine4
+    100792: Stage2Engine5
+    100794: Stage2Equip1
+    100796: Stage2Equip10
+    100798: Stage2Equip11
+    100800: Stage2Equip12
+    100802: Stage2Equip13
+    100804: Stage2Equip14
+    100806: Stage2Equip15
+    100808: Stage2Equip16
+    100810: Stage2Equip17
+    100812: Stage2Equip18
+    100814: Stage2Equip19
+    100816: Stage2Equip20
+    100818: Stage2Equip21
+    100820: Stage2Equip22
+    100822: Stage2Equip23
+    100824: Stage2Equip24
+    100826: Stage2Equip25
+    100828: Stage2Equip26
+    100830: Stage2Equip27
+    100832: Stage2Equip28
+    100834: Stage2Equip3
+    100836: Stage2Equip4
+    100838: Stage2Equip5
+    100840: Stage2Equip6
+    100842: Stage2Equip7
+    100844: Stage2Equip9
+    100846: Stage2Exterior1
+    100848: Stage2Hose1
+    100850: Stage2Hose2
+    100852: Stage2Hose3
+    100854: Stage2Hose4
+    100856: Stage2Hose5
+    100858: Stage2Interior
+    100860: Stage2Scaffolding
+    100862: Stage2TankMon
+    100864: Stage2TankOut
+    100866: Stage2TankOut1
+    100868: Stage2UpperTank
+    100870: Stage3Exterior1
+    100872: Stage3ExtLines
+    100874: Stage3ExtLines1
+    100876: Stage3ExtLines2
+    100878: Stage3Garage1
+    100880: Stage3Garage2
+    100882: Stage3Garage3
+    100884: Stage3Garage4
+    100886: Stage3GarageBase5
+    100888: Stage3GarageBase6
+    100890: Stage3GarageBase7
+    100892: Stage3GarageBase8
+    100894: Stage3Interior
+    100896: Stage3Interior1
+    100898: Stage3LowerTank
+    100900: Stage3Rocket
+    100902: Stage3RocketShroud
+    100904: Stage3Scaffolding
+    100906: Stage3UpperScaffolding
+    100908: Stage3UpperTank
+    100910: SupportCable
+    100912: SupportCable 1
+    100914: TankCover1
+    100916: TankInsullator
+    100918: TopLight1
+    100920: TopLight2
+    100922: TopLight3
+    100924: TopLight4
+    100926: TopSideRailShelf
+    100928: TowerBeam1
+    100930: TowerBeam1 1
+    100932: TowerBeam10
+    100934: TowerBeam11
+    100936: TowerBeam12
+    100938: TowerBeam13
+    100940: TowerBeam14
+    100942: TowerBeam15
+    100944: TowerBeam16
+    100946: TowerBeam17
+    100948: TowerBeam18
+    100950: TowerBeam19
+    100952: TowerBeam2
+    100954: TowerBeam20
+    100956: TowerBeam21
+    100958: TowerBeam22
+    100960: TowerBeam23
+    100962: TowerBeam24
+    100964: TowerBeam25
+    100966: TowerBeam26
+    100968: TowerBeam27
+    100970: TowerBeam28
+    100972: TowerBeam29
+    100974: TowerBeam3
+    100976: TowerBeam30
+    100978: TowerBeam31
+    100980: TowerBeam32
+    100982: TowerBeam33
+    100984: TowerBeam34
+    100986: TowerBeam35
+    100988: TowerBeam36
+    100990: TowerBeam37
+    100992: TowerBeam38
+    100994: TowerBeam39
+    100996: TowerBeam4
+    100998: TowerBeam40
+    101000: TowerBeam41
+    101002: TowerBeam42
+    101004: TowerBeam43
+    101006: TowerBeam44
+    101008: TowerBeam45
+    101010: TowerBeam46
+    101012: TowerBeam47
+    101014: TowerBeam48
+    101016: TowerBeam49
+    101018: TowerBeam5
+    101020: TowerBeam50
+    101022: TowerBeam51
+    101024: TowerBeam52
+    101026: TowerBeam53
+    101028: TowerBeam54
+    101030: TowerBeam55
+    101032: TowerBeam56
+    101034: TowerBeam57
+    101036: TowerBeam58
+    101038: TowerBeam59
+    101040: TowerBeam6
+    101042: TowerBeam60
+    101044: TowerBeam61
+    101046: TowerBeam62
+    101048: TowerBeam63
+    101050: TowerBeam64
+    101052: TowerBeam65
+    101054: TowerBeam7
+    101056: TowerBeam8
+    101058: TowerBeam9
+    101060: TowerSideRail1
+    101062: TowerSideRail2
+    101064: TowerSideRail3
+    101066: TowerSideRail4
+    101068: TowSupp1
+    101070: TowSupp1 1
+    101072: TowSupp10
+    101074: TowSupp100
+    101076: TowSupp101
+    101078: TowSupp102
+    101080: TowSupp103
+    101082: TowSupp104
+    101084: TowSupp105
+    101086: TowSupp106
+    101088: TowSupp107
+    101090: TowSupp108
+    101092: TowSupp109
+    101094: TowSupp11
+    101096: TowSupp110
+    101098: TowSupp111
+    101100: TowSupp112
+    101102: TowSupp113
+    101104: TowSupp114
+    101106: TowSupp115
+    101108: TowSupp116
+    101110: TowSupp117
+    101112: TowSupp118
+    101114: TowSupp119
+    101116: TowSupp12
+    101118: TowSupp120
+    101120: TowSupp121
+    101122: TowSupp122
+    101124: TowSupp123
+    101126: TowSupp124
+    101128: TowSupp125
+    101130: TowSupp126
+    101132: TowSupp127
+    101134: TowSupp128
+    101136: TowSupp129
+    101138: TowSupp13
+    101140: TowSupp130
+    101142: TowSupp131
+    101144: TowSupp132
+    101146: TowSupp133
+    101148: TowSupp134
+    101150: TowSupp135
+    101152: TowSupp136
+    101154: TowSupp137
+    101156: TowSupp138
+    101158: TowSupp139
+    101160: TowSupp14
+    101162: TowSupp140
+    101164: TowSupp141
+    101166: TowSupp142
+    101168: TowSupp143
+    101170: TowSupp15
+    101172: TowSupp16
+    101174: TowSupp17
+    101176: TowSupp18
+    101178: TowSupp19
+    101180: TowSupp2
+    101182: TowSupp20
+    101184: TowSupp21
+    101186: TowSupp22
+    101188: TowSupp23
+    101190: TowSupp24
+    101192: TowSupp25
+    101194: TowSupp26
+    101196: TowSupp27
+    101198: TowSupp28
+    101200: TowSupp29
+    101202: TowSupp3
+    101204: TowSupp30
+    101206: TowSupp31
+    101208: TowSupp32
+    101210: TowSupp33
+    101212: TowSupp34
+    101214: TowSupp35
+    101216: TowSupp36
+    101218: TowSupp37
+    101220: TowSupp38
+    101222: TowSupp39
+    101224: TowSupp4
+    101226: TowSupp40
+    101228: TowSupp41
+    101230: TowSupp42
+    101232: TowSupp43
+    101234: TowSupp44
+    101236: TowSupp45
+    101238: TowSupp46
+    101240: TowSupp47
+    101242: TowSupp48
+    101244: TowSupp49
+    101246: TowSupp5
+    101248: TowSupp50
+    101250: TowSupp51
+    101252: TowSupp52
+    101254: TowSupp53
+    101256: TowSupp54
+    101258: TowSupp55
+    101260: TowSupp56
+    101262: TowSupp57
+    101264: TowSupp58
+    101266: TowSupp59
+    101268: TowSupp6
+    101270: TowSupp60
+    101272: TowSupp61
+    101274: TowSupp62
+    101276: TowSupp63
+    101278: TowSupp64
+    101280: TowSupp65
+    101282: TowSupp66
+    101284: TowSupp67
+    101286: TowSupp68
+    101288: TowSupp69
+    101290: TowSupp7
+    101292: TowSupp70
+    101294: TowSupp71
+    101296: TowSupp72
+    101298: TowSupp73
+    101300: TowSupp74
+    101302: TowSupp75
+    101304: TowSupp76
+    101306: TowSupp77
+    101308: TowSupp78
+    101310: TowSupp79
+    101312: TowSupp8
+    101314: TowSupp80
+    101316: TowSupp81
+    101318: TowSupp82
+    101320: TowSupp83
+    101322: TowSupp84
+    101324: TowSupp85
+    101326: TowSupp86
+    101328: TowSupp87
+    101330: TowSupp88
+    101332: TowSupp89
+    101334: TowSupp9
+    101336: TowSupp90
+    101338: TowSupp91
+    101340: TowSupp92
+    101342: TowSupp93
+    101344: TowSupp94
+    101346: TowSupp95
+    101348: TowSupp96
+    101350: TowSupp97
+    101352: TowSupp98
+    101354: TowSupp99
+    101356: UmbilicalCover
+    400000: '! rocket'
+    400002: AuxHose1
+    400004: AuxHose2
+    400006: AuxHose3
+    400008: AuxHose4
+    400010: AuxHose5
+    400012: AuxHose6
+    400014: Axis
+    400016: Axis 1
+    400018: Axis 10
+    400020: Axis 11
+    400022: Axis 12
+    400024: Axis 13
+    400026: Axis 14
+    400028: Axis 15
+    400030: Axis 16
+    400032: Axis 17
+    400034: Axis 18
+    400036: Axis 19
+    400038: Axis 2
+    400040: Axis 20
+    400042: Axis 21
+    400044: Axis 22
+    400046: Axis 23
+    400048: Axis 24
+    400050: Axis 25
+    400052: Axis 26
+    400054: Axis 27
+    400056: Axis 28
+    400058: Axis 29
+    400060: Axis 3
+    400062: Axis 30
+    400064: Axis 31
+    400066: Axis 32
+    400068: Axis 33
+    400070: Axis 34
+    400072: Axis 35
+    400074: Axis 36
+    400076: Axis 37
+    400078: Axis 38
+    400080: Axis 39
+    400082: Axis 4
+    400084: Axis 40
+    400086: Axis 41
+    400088: Axis 5
+    400090: Axis 6
+    400092: Axis 7
+    400094: Axis 8
+    400096: Axis 9
+    400098: Camera1
+    400100: Camera10
+    400102: Camera11
+    400104: Camera12
+    400106: Camera13
+    400108: Camera14
+    400110: Camera15
+    400112: Camera16
+    400114: Camera2
+    400116: Camera3
+    400118: Camera4
+    400120: Camera5
+    400122: Camera6
+    400124: Camera7
+    400126: Camera8
+    400128: Camera9
+    400130: CranePivot
+    400132: CraneShed
+    400134: ElevatorShaft
+    400136: ElevatorShaft1
+    400138: ElevatorShaft10
+    400140: ElevatorShaft11
+    400142: ElevatorShaft12
+    400144: ElevatorShaft13
+    400146: ElevatorShaft14
+    400148: ElevatorShaft15
+    400150: ElevatorShaft2
+    400152: ElevatorShaft2 1
+    400154: ElevatorShaft3
+    400156: ElevatorShaft4
+    400158: ElevatorShaft5
+    400160: ElevatorShaft6
+    400162: ElevatorShaft7
+    400164: ElevatorShaft8
+    400166: ElevatorShaft9
+    400168: Engine1Supp1
+    400170: EscapeHead
+    400172: EscapeRockets
+    400174: EscapeScaffolding
+    400176: ExtPipe1
+    400178: ExtPipe1 1
+    400180: ExtPipe1 2
+    400182: ExtPipe1 3
+    400184: ExtPipe1 4
+    400186: ExtPipe1 5
+    400188: ExtPipe1 6
+    400190: ExtPipe1 7
+    400192: ExtPipe2
+    400194: ExtPipe2 1
+    400196: ExtPipe2 2
+    400198: ExtPipe2 3
+    400200: ExtPipe2 4
+    400202: ExtPipe2 5
+    400204: ExtPipe2 6
+    400206: ExtPipe2 7
+    400208: extrudedSurface3
+    400210: extrudedSurface3 1
+    400212: extrudedSurface3 2
+    400214: extrudedSurface3 3
+    400216: extrudedSurface3 4
+    400218: extrudedSurface3 5
+    400220: extrudedSurface3 6
+    400222: extrudedSurface3 7
+    400224: extrudedSurface4
+    400226: extrudedSurface6
+    400228: extrudedSurface7
+    400230: extrudedSurface8
+    400232: F1_Engine2
+    400234: F1_Engine3
+    400236: F1_Engine4
+    400238: F1_Engine5
+    400240: F1_Engine6
+    400242: Group001
+    400244: Group001 1
+    400246: Group002
+    400248: Group002 1
+    400250: Group003
+    400252: Group003 1
+    400254: Group004
+    400256: Group005
+    400258: Group006
+    400260: Group007
+    400262: Group008
+    400264: Group009
+    400266: Group010
+    400268: Group011
+    400270: Group012
+    400272: group5
+    400274: group6
+    400276: grpApolloPlatform
+    400278: grpOrbiter
+    400280: grpSaturnV
+    400282: HeliumTanks
+    400284: HiGain
+    400286: HLine1
+    400288: HLine2
+    400290: HLine3
+    400292: HLine4
+    400294: HLine5
+    400296: Hoist1
+    400298: Hoist1Spindle
+    400300: Hoist1Spindle1
+    400302: Hoist1Support
+    400304: Hoist1Support1
+    400306: Hoist2
+    400308: HydroPipe
+    400310: HydroPipe 1
+    400312: HydroPipe 2
+    400314: HydroPipe 3
+    400316: HydroPipe 4
+    400318: HydroPipe 5
+    400320: HydroPipe 6
+    400322: HydroPipe 7
+    400324: HydrShelf
+    400326: HydrShelf 1
+    400328: HydrShelf 2
+    400330: HydrShelf 3
+    400332: HydrShelf 4
+    400334: HydrShelf 5
+    400336: HydrShelf 6
+    400338: HydrShelf 7
+    400340: HydrShelf 8
+    400342: InstrumentUnitExterior1
+    400344: InstrumentUnitInterior
+    400346: InstrumentUnitInterior1
+    400348: IUAnt1
+    400350: IUAnt2
+    400352: IUAnt3
+    400354: IUCoil
+    400356: IUMesh
+    400358: //RootNode
+    400360: LeftScaffolding
+    400362: LightTower
+    400364: Line001
+    400366: LoGain1
+    400368: LoGain2
+    400370: LoGain3
+    400372: LoGain4
+    400374: MainDockArm
+    400376: MainDockArm 1
+    400378: MainDockArm 2
+    400380: MainDockArm 3
+    400382: MainDockArm 4
+    400384: MainDockArm 5
+    400386: MainDockArm 6
+    400388: MainDockArm 7
+    400390: MainDockArm 8
+    400392: MainEntryGroup
+    400394: MainEntryGroup1
+    400396: MainEntryGroup2
+    400398: MainEntryGroup3
+    400400: MainEntryGroup4
+    400402: MainEntryGroup5
+    400404: MainEntryGroup6
+    400406: MainEntryGroup7
+    400408: MainEntryGroup8
+    400410: MainLadder1
+    400412: MainLadder10
+    400414: MainLadder11
+    400416: MainLadder12
+    400418: MainLadder13
+    400420: MainLadder14
+    400422: MainLadder15
+    400424: MainLadder16
+    400426: MainLadder2
+    400428: MainLadder3
+    400430: MainLadder3 1
+    400432: MainLadder4
+    400434: MainLadder5
+    400436: MainLadder6
+    400438: MainLadder7
+    400440: MainLadder8
+    400442: MainLadder9
+    400444: MainRail1
+    400446: MainRail10
+    400448: MainRail11
+    400450: MainRail12
+    400452: MainRail13
+    400454: MainRail14
+    400456: MainRail15
+    400458: MainRail16
+    400460: MainRail17
+    400462: MainRail18
+    400464: MainRail2
+    400466: MainRail3
+    400468: MainRail4
+    400470: MainRail5
+    400472: MainRail5 1
+    400474: MainRail6
+    400476: MainRail7
+    400478: MainRail8
+    400480: MainRail9
+    400482: OrbiterENGINE
+    400484: OrbiterExterior
+    400486: OrbiterShell
+    400488: OrbiterVent
+    400490: pCube17
+    400492: pCube18
+    400494: pCube19
+    400496: pCube20
+    400498: pCube21
+    400500: pCube22
+    400502: pCube23
+    400504: pCube24
+    400506: pCube29
+    400508: pCylinder10
+    400510: pCylinder11
+    400512: pCylinder12
+    400514: pCylinder2
+    400516: pCylinder3
+    400518: pCylinder4
+    400520: pCylinder5
+    400522: pCylinder6
+    400524: pCylinder7
+    400526: pCylinder8
+    400528: pCylinder9
+    400530: PhysCamera003
+    400532: PhysCamera004
+    400534: plaatform001
+    400536: Plane002
+    400538: Platform1
+    400540: Platform10
+    400542: Platform11
+    400544: Platform12
+    400546: Platform13
+    400548: Platform14
+    400550: Platform15
+    400552: Platform16
+    400554: Platform2
+    400556: Platform3
+    400558: Platform3 1
+    400560: Platform4
+    400562: Platform5
+    400564: Platform6
+    400566: Platform7
+    400568: Platform8
+    400570: Platform9
+    400572: PlatformRail1
+    400574: PlatformRail10
+    400576: PlatformRail11
+    400578: PlatformRail12
+    400580: PlatformRail13
+    400582: PlatformRail14
+    400584: PlatformRail15
+    400586: PlatformRail16
+    400588: PlatformRail17
+    400590: PlatformRail18
+    400592: PlatformRail19
+    400594: PlatformRail2
+    400596: PlatformRail20
+    400598: PlatformRail21
+    400600: PlatformRail22
+    400602: PlatformRail23
+    400604: PlatformRail24
+    400606: PlatformRail25
+    400608: PlatformRail26
+    400610: PlatformRail27
+    400612: PlatformRail28
+    400614: PlatformRail29
+    400616: PlatformRail3
+    400618: PlatformRail30
+    400620: PlatformRail31
+    400622: PlatformRail32
+    400624: PlatformRail4
+    400626: PlatformRail5
+    400628: PlatformRail5 1
+    400630: PlatformRail6
+    400632: PlatformRail6 1
+    400634: PlatformRail7
+    400636: PlatformRail8
+    400638: PlatformRail9
+    400640: polySurface108
+    400642: polySurface147
+    400644: polySurface148
+    400646: polySurface150
+    400648: polySurface151
+    400650: polySurface152
+    400652: polySurface170
+    400654: polySurface180
+    400656: polySurface181
+    400658: polySurface182
+    400660: polySurface199
+    400662: polySurface200
+    400664: polySurface210
+    400666: polySurface280
+    400668: polySurface286
+    400670: polySurface303
+    400672: polySurface304
+    400674: polySurface305
+    400676: polySurface306
+    400678: polySurface307
+    400680: polyToSubd1
+    400682: Rectangle001
+    400684: Retro1
+    400686: Retro2
+    400688: Retro3
+    400690: Retro4
+    400692: RightScaffolding
+    400694: RocketBasePlate
+    400696: scaffold
+    400698: ScaffShelf1
+    400700: ScaffShelf1 1
+    400702: ScaffShelf1 2
+    400704: ScaffShelf1 3
+    400706: ScaffShelf1 4
+    400708: ScaffShelf1 5
+    400710: ScaffShelf1 6
+    400712: ScaffShelf1 7
+    400714: ScaffShelf1 8
+    400716: ScaffShelf2
+    400718: ScaffShelf2 1
+    400720: ScaffShelf2 2
+    400722: ScaffShelf2 3
+    400724: ScaffShelf2 4
+    400726: ScaffShelf2 5
+    400728: ScaffShelf2 6
+    400730: ScaffShelf2 7
+    400732: ScaffShelf2 8
+    400734: SideRail1
+    400736: SideRail2
+    400738: SideRailSupp
+    400740: SideRailSupp1
+    400742: SideRailSupp2
+    400744: SideRailSupp3
+    400746: SideRailSupp4
+    400748: SideRailSupp5
+    400750: SideRailSupp6
+    400752: SideRailSupp7
+    400754: SideRailSupp8
+    400756: Stage1AdapterExterior1
+    400758: Stage1AdapterInterior
+    400760: Stage1Exterior
+    400762: Stage1UpperGuard
+    400764: Stage1UpperTank
+    400766: Stage1Wing1
+    400768: Stage1Wing2
+    400770: Stage1Wing3
+    400772: Stage1Wing4
+    400774: Stage2AdapterExterior1
+    400776: Stage2AdapterInterior1
+    400778: Stage2Aux1
+    400780: Stage2Aux2
+    400782: Stage2CenterEngineRing
+    400784: Stage2Engine1
+    400786: Stage2Engine2
+    400788: Stage2Engine3
+    400790: Stage2Engine4
+    400792: Stage2Engine5
+    400794: Stage2Equip1
+    400796: Stage2Equip10
+    400798: Stage2Equip11
+    400800: Stage2Equip12
+    400802: Stage2Equip13
+    400804: Stage2Equip14
+    400806: Stage2Equip15
+    400808: Stage2Equip16
+    400810: Stage2Equip17
+    400812: Stage2Equip18
+    400814: Stage2Equip19
+    400816: Stage2Equip20
+    400818: Stage2Equip21
+    400820: Stage2Equip22
+    400822: Stage2Equip23
+    400824: Stage2Equip24
+    400826: Stage2Equip25
+    400828: Stage2Equip26
+    400830: Stage2Equip27
+    400832: Stage2Equip28
+    400834: Stage2Equip3
+    400836: Stage2Equip4
+    400838: Stage2Equip5
+    400840: Stage2Equip6
+    400842: Stage2Equip7
+    400844: Stage2Equip9
+    400846: Stage2Exterior1
+    400848: Stage2Hose1
+    400850: Stage2Hose2
+    400852: Stage2Hose3
+    400854: Stage2Hose4
+    400856: Stage2Hose5
+    400858: Stage2Interior
+    400860: Stage2Scaffolding
+    400862: Stage2TankMon
+    400864: Stage2TankOut
+    400866: Stage2TankOut1
+    400868: Stage2UpperTank
+    400870: Stage3Exterior1
+    400872: Stage3ExtLines
+    400874: Stage3ExtLines1
+    400876: Stage3ExtLines2
+    400878: Stage3Garage1
+    400880: Stage3Garage2
+    400882: Stage3Garage3
+    400884: Stage3Garage4
+    400886: Stage3GarageBase5
+    400888: Stage3GarageBase6
+    400890: Stage3GarageBase7
+    400892: Stage3GarageBase8
+    400894: Stage3Interior
+    400896: Stage3Interior1
+    400898: Stage3LowerTank
+    400900: Stage3Rocket
+    400902: Stage3RocketShroud
+    400904: Stage3Scaffolding
+    400906: Stage3UpperScaffolding
+    400908: Stage3UpperTank
+    400910: SupportCable
+    400912: SupportCable 1
+    400914: TankCover1
+    400916: TankInsullator
+    400918: TopLight1
+    400920: TopLight2
+    400922: TopLight3
+    400924: TopLight4
+    400926: TopSideRailShelf
+    400928: TowerBeam1
+    400930: TowerBeam1 1
+    400932: TowerBeam10
+    400934: TowerBeam11
+    400936: TowerBeam12
+    400938: TowerBeam13
+    400940: TowerBeam14
+    400942: TowerBeam15
+    400944: TowerBeam16
+    400946: TowerBeam17
+    400948: TowerBeam18
+    400950: TowerBeam19
+    400952: TowerBeam2
+    400954: TowerBeam20
+    400956: TowerBeam21
+    400958: TowerBeam22
+    400960: TowerBeam23
+    400962: TowerBeam24
+    400964: TowerBeam25
+    400966: TowerBeam26
+    400968: TowerBeam27
+    400970: TowerBeam28
+    400972: TowerBeam29
+    400974: TowerBeam3
+    400976: TowerBeam30
+    400978: TowerBeam31
+    400980: TowerBeam32
+    400982: TowerBeam33
+    400984: TowerBeam34
+    400986: TowerBeam35
+    400988: TowerBeam36
+    400990: TowerBeam37
+    400992: TowerBeam38
+    400994: TowerBeam39
+    400996: TowerBeam4
+    400998: TowerBeam40
+    401000: TowerBeam41
+    401002: TowerBeam42
+    401004: TowerBeam43
+    401006: TowerBeam44
+    401008: TowerBeam45
+    401010: TowerBeam46
+    401012: TowerBeam47
+    401014: TowerBeam48
+    401016: TowerBeam49
+    401018: TowerBeam5
+    401020: TowerBeam50
+    401022: TowerBeam51
+    401024: TowerBeam52
+    401026: TowerBeam53
+    401028: TowerBeam54
+    401030: TowerBeam55
+    401032: TowerBeam56
+    401034: TowerBeam57
+    401036: TowerBeam58
+    401038: TowerBeam59
+    401040: TowerBeam6
+    401042: TowerBeam60
+    401044: TowerBeam61
+    401046: TowerBeam62
+    401048: TowerBeam63
+    401050: TowerBeam64
+    401052: TowerBeam65
+    401054: TowerBeam7
+    401056: TowerBeam8
+    401058: TowerBeam9
+    401060: TowerSideRail1
+    401062: TowerSideRail2
+    401064: TowerSideRail3
+    401066: TowerSideRail4
+    401068: TowSupp1
+    401070: TowSupp1 1
+    401072: TowSupp10
+    401074: TowSupp100
+    401076: TowSupp101
+    401078: TowSupp102
+    401080: TowSupp103
+    401082: TowSupp104
+    401084: TowSupp105
+    401086: TowSupp106
+    401088: TowSupp107
+    401090: TowSupp108
+    401092: TowSupp109
+    401094: TowSupp11
+    401096: TowSupp110
+    401098: TowSupp111
+    401100: TowSupp112
+    401102: TowSupp113
+    401104: TowSupp114
+    401106: TowSupp115
+    401108: TowSupp116
+    401110: TowSupp117
+    401112: TowSupp118
+    401114: TowSupp119
+    401116: TowSupp12
+    401118: TowSupp120
+    401120: TowSupp121
+    401122: TowSupp122
+    401124: TowSupp123
+    401126: TowSupp124
+    401128: TowSupp125
+    401130: TowSupp126
+    401132: TowSupp127
+    401134: TowSupp128
+    401136: TowSupp129
+    401138: TowSupp13
+    401140: TowSupp130
+    401142: TowSupp131
+    401144: TowSupp132
+    401146: TowSupp133
+    401148: TowSupp134
+    401150: TowSupp135
+    401152: TowSupp136
+    401154: TowSupp137
+    401156: TowSupp138
+    401158: TowSupp139
+    401160: TowSupp14
+    401162: TowSupp140
+    401164: TowSupp141
+    401166: TowSupp142
+    401168: TowSupp143
+    401170: TowSupp15
+    401172: TowSupp16
+    401174: TowSupp17
+    401176: TowSupp18
+    401178: TowSupp19
+    401180: TowSupp2
+    401182: TowSupp20
+    401184: TowSupp21
+    401186: TowSupp22
+    401188: TowSupp23
+    401190: TowSupp24
+    401192: TowSupp25
+    401194: TowSupp26
+    401196: TowSupp27
+    401198: TowSupp28
+    401200: TowSupp29
+    401202: TowSupp3
+    401204: TowSupp30
+    401206: TowSupp31
+    401208: TowSupp32
+    401210: TowSupp33
+    401212: TowSupp34
+    401214: TowSupp35
+    401216: TowSupp36
+    401218: TowSupp37
+    401220: TowSupp38
+    401222: TowSupp39
+    401224: TowSupp4
+    401226: TowSupp40
+    401228: TowSupp41
+    401230: TowSupp42
+    401232: TowSupp43
+    401234: TowSupp44
+    401236: TowSupp45
+    401238: TowSupp46
+    401240: TowSupp47
+    401242: TowSupp48
+    401244: TowSupp49
+    401246: TowSupp5
+    401248: TowSupp50
+    401250: TowSupp51
+    401252: TowSupp52
+    401254: TowSupp53
+    401256: TowSupp54
+    401258: TowSupp55
+    401260: TowSupp56
+    401262: TowSupp57
+    401264: TowSupp58
+    401266: TowSupp59
+    401268: TowSupp6
+    401270: TowSupp60
+    401272: TowSupp61
+    401274: TowSupp62
+    401276: TowSupp63
+    401278: TowSupp64
+    401280: TowSupp65
+    401282: TowSupp66
+    401284: TowSupp67
+    401286: TowSupp68
+    401288: TowSupp69
+    401290: TowSupp7
+    401292: TowSupp70
+    401294: TowSupp71
+    401296: TowSupp72
+    401298: TowSupp73
+    401300: TowSupp74
+    401302: TowSupp75
+    401304: TowSupp76
+    401306: TowSupp77
+    401308: TowSupp78
+    401310: TowSupp79
+    401312: TowSupp8
+    401314: TowSupp80
+    401316: TowSupp81
+    401318: TowSupp82
+    401320: TowSupp83
+    401322: TowSupp84
+    401324: TowSupp85
+    401326: TowSupp86
+    401328: TowSupp87
+    401330: TowSupp88
+    401332: TowSupp89
+    401334: TowSupp9
+    401336: TowSupp90
+    401338: TowSupp91
+    401340: TowSupp92
+    401342: TowSupp93
+    401344: TowSupp94
+    401346: TowSupp95
+    401348: TowSupp96
+    401350: TowSupp97
+    401352: TowSupp98
+    401354: TowSupp99
+    401356: UmbilicalCover
+    2100000: No Name
+    2100002: HardenedSteel
+    2100004: RocketBlack
+    2100006: Aluminum
+    2100008: InsulatedTank
+    2100010: FadedBrass
+    2100012: TEX_STG3
+    2100014: RocketWhite
+    2100016: lambert1
+    2100018: TEX_ORBC
+    2100020: FlatSteel
+    2100022: Glass
+    2100024: BlackCharcoal
+    2100026: TEX_STG2
+    2100028: RedPlug
+    2100030: TEX_FINA
+    2100032: TEX_BOTB
+    2100034: TEX_STG1
+    2100036: TEX_FINB
+    2100038: TEX_FINC
+    2100040: TEX_FIND
+    2100042: GlossWhite
+    2100044: FlatBlack
+    2100046: DullSteel
+    2100048: RustRed
+    2100050: Grating
+    2100052: GlossBlack
+    2100054: 'Material #302'
+    2100056: LightBulb
+    2100058: CorrugatedAluminum
+    2100060: TEX_CMNT
+    2100062: FadedGold
+    2300000: '! rocket'
+    2300002: AuxHose1
+    2300004: AuxHose2
+    2300006: AuxHose3
+    2300008: AuxHose4
+    2300010: AuxHose5
+    2300012: AuxHose6
+    2300014: Camera1
+    2300016: Camera10
+    2300018: Camera11
+    2300020: Camera12
+    2300022: Camera13
+    2300024: Camera14
+    2300026: Camera15
+    2300028: Camera16
+    2300030: Camera2
+    2300032: Camera3
+    2300034: Camera4
+    2300036: Camera5
+    2300038: Camera6
+    2300040: Camera7
+    2300042: Camera8
+    2300044: Camera9
+    2300046: CranePivot
+    2300048: CraneShed
+    2300050: ElevatorShaft
+    2300052: ElevatorShaft1
+    2300054: ElevatorShaft10
+    2300056: ElevatorShaft11
+    2300058: ElevatorShaft12
+    2300060: ElevatorShaft13
+    2300062: ElevatorShaft14
+    2300064: ElevatorShaft15
+    2300066: ElevatorShaft2
+    2300068: ElevatorShaft2 1
+    2300070: ElevatorShaft3
+    2300072: ElevatorShaft4
+    2300074: ElevatorShaft5
+    2300076: ElevatorShaft6
+    2300078: ElevatorShaft7
+    2300080: ElevatorShaft8
+    2300082: ElevatorShaft9
+    2300084: Engine1Supp1
+    2300086: EscapeHead
+    2300088: EscapeRockets
+    2300090: EscapeScaffolding
+    2300092: ExtPipe1
+    2300094: ExtPipe1 1
+    2300096: ExtPipe1 2
+    2300098: ExtPipe1 3
+    2300100: ExtPipe1 4
+    2300102: ExtPipe1 5
+    2300104: ExtPipe1 6
+    2300106: ExtPipe1 7
+    2300108: ExtPipe2
+    2300110: ExtPipe2 1
+    2300112: ExtPipe2 2
+    2300114: ExtPipe2 3
+    2300116: ExtPipe2 4
+    2300118: ExtPipe2 5
+    2300120: ExtPipe2 6
+    2300122: ExtPipe2 7
+    2300124: extrudedSurface4
+    2300126: extrudedSurface6
+    2300128: extrudedSurface7
+    2300130: extrudedSurface8
+    2300132: F1_Engine2
+    2300134: F1_Engine3
+    2300136: F1_Engine4
+    2300138: F1_Engine5
+    2300140: F1_Engine6
+    2300142: HeliumTanks
+    2300144: HiGain
+    2300146: HLine1
+    2300148: HLine2
+    2300150: HLine3
+    2300152: HLine4
+    2300154: HLine5
+    2300156: Hoist1
+    2300158: Hoist1Spindle
+    2300160: Hoist1Spindle1
+    2300162: Hoist1Support
+    2300164: Hoist1Support1
+    2300166: Hoist2
+    2300168: HydroPipe
+    2300170: HydroPipe 1
+    2300172: HydroPipe 2
+    2300174: HydroPipe 3
+    2300176: HydroPipe 4
+    2300178: HydroPipe 5
+    2300180: HydroPipe 6
+    2300182: HydroPipe 7
+    2300184: HydrShelf
+    2300186: HydrShelf 1
+    2300188: HydrShelf 2
+    2300190: HydrShelf 3
+    2300192: HydrShelf 4
+    2300194: HydrShelf 5
+    2300196: HydrShelf 6
+    2300198: HydrShelf 7
+    2300200: HydrShelf 8
+    2300202: InstrumentUnitExterior1
+    2300204: InstrumentUnitInterior
+    2300206: InstrumentUnitInterior1
+    2300208: IUAnt1
+    2300210: IUAnt2
+    2300212: IUAnt3
+    2300214: IUCoil
+    2300216: IUMesh
+    2300218: LeftScaffolding
+    2300220: LightTower
+    2300222: Line001
+    2300224: LoGain1
+    2300226: LoGain2
+    2300228: LoGain3
+    2300230: LoGain4
+    2300232: MainDockArm
+    2300234: MainDockArm 1
+    2300236: MainDockArm 2
+    2300238: MainDockArm 3
+    2300240: MainDockArm 4
+    2300242: MainDockArm 5
+    2300244: MainDockArm 6
+    2300246: MainDockArm 7
+    2300248: MainDockArm 8
+    2300250: MainLadder1
+    2300252: MainLadder10
+    2300254: MainLadder11
+    2300256: MainLadder12
+    2300258: MainLadder13
+    2300260: MainLadder14
+    2300262: MainLadder15
+    2300264: MainLadder16
+    2300266: MainLadder2
+    2300268: MainLadder3
+    2300270: MainLadder3 1
+    2300272: MainLadder4
+    2300274: MainLadder5
+    2300276: MainLadder6
+    2300278: MainLadder7
+    2300280: MainLadder8
+    2300282: MainLadder9
+    2300284: MainRail1
+    2300286: MainRail10
+    2300288: MainRail11
+    2300290: MainRail12
+    2300292: MainRail13
+    2300294: MainRail14
+    2300296: MainRail15
+    2300298: MainRail16
+    2300300: MainRail17
+    2300302: MainRail18
+    2300304: MainRail2
+    2300306: MainRail3
+    2300308: MainRail4
+    2300310: MainRail5
+    2300312: MainRail5 1
+    2300314: MainRail6
+    2300316: MainRail7
+    2300318: MainRail8
+    2300320: MainRail9
+    2300322: OrbiterENGINE
+    2300324: OrbiterExterior
+    2300326: OrbiterShell
+    2300328: OrbiterVent
+    2300330: pCube17
+    2300332: pCube18
+    2300334: pCube19
+    2300336: pCube20
+    2300338: pCube21
+    2300340: pCube22
+    2300342: pCube23
+    2300344: pCube24
+    2300346: pCube29
+    2300348: pCylinder10
+    2300350: pCylinder11
+    2300352: pCylinder12
+    2300354: pCylinder2
+    2300356: pCylinder3
+    2300358: pCylinder4
+    2300360: pCylinder5
+    2300362: pCylinder6
+    2300364: pCylinder7
+    2300366: pCylinder8
+    2300368: pCylinder9
+    2300370: Plane002
+    2300372: Platform1
+    2300374: Platform10
+    2300376: Platform11
+    2300378: Platform12
+    2300380: Platform13
+    2300382: Platform14
+    2300384: Platform15
+    2300386: Platform16
+    2300388: Platform2
+    2300390: Platform3
+    2300392: Platform3 1
+    2300394: Platform4
+    2300396: Platform5
+    2300398: Platform6
+    2300400: Platform7
+    2300402: Platform8
+    2300404: Platform9
+    2300406: PlatformRail1
+    2300408: PlatformRail10
+    2300410: PlatformRail11
+    2300412: PlatformRail12
+    2300414: PlatformRail13
+    2300416: PlatformRail14
+    2300418: PlatformRail15
+    2300420: PlatformRail16
+    2300422: PlatformRail17
+    2300424: PlatformRail18
+    2300426: PlatformRail19
+    2300428: PlatformRail2
+    2300430: PlatformRail20
+    2300432: PlatformRail21
+    2300434: PlatformRail22
+    2300436: PlatformRail23
+    2300438: PlatformRail24
+    2300440: PlatformRail25
+    2300442: PlatformRail26
+    2300444: PlatformRail27
+    2300446: PlatformRail28
+    2300448: PlatformRail29
+    2300450: PlatformRail3
+    2300452: PlatformRail30
+    2300454: PlatformRail31
+    2300456: PlatformRail32
+    2300458: PlatformRail4
+    2300460: PlatformRail5
+    2300462: PlatformRail5 1
+    2300464: PlatformRail6
+    2300466: PlatformRail6 1
+    2300468: PlatformRail7
+    2300470: PlatformRail8
+    2300472: PlatformRail9
+    2300474: polySurface108
+    2300476: polySurface147
+    2300478: polySurface148
+    2300480: polySurface150
+    2300482: polySurface151
+    2300484: polySurface152
+    2300486: polySurface170
+    2300488: polySurface180
+    2300490: polySurface181
+    2300492: polySurface182
+    2300494: polySurface199
+    2300496: polySurface200
+    2300498: polySurface210
+    2300500: polySurface280
+    2300502: polySurface286
+    2300504: polySurface303
+    2300506: polySurface304
+    2300508: polySurface305
+    2300510: polySurface306
+    2300512: polySurface307
+    2300514: Retro1
+    2300516: Retro2
+    2300518: Retro3
+    2300520: Retro4
+    2300522: RightScaffolding
+    2300524: RocketBasePlate
+    2300526: ScaffShelf1
+    2300528: ScaffShelf1 1
+    2300530: ScaffShelf1 2
+    2300532: ScaffShelf1 3
+    2300534: ScaffShelf1 4
+    2300536: ScaffShelf1 5
+    2300538: ScaffShelf1 6
+    2300540: ScaffShelf1 7
+    2300542: ScaffShelf1 8
+    2300544: ScaffShelf2
+    2300546: ScaffShelf2 1
+    2300548: ScaffShelf2 2
+    2300550: ScaffShelf2 3
+    2300552: ScaffShelf2 4
+    2300554: ScaffShelf2 5
+    2300556: ScaffShelf2 6
+    2300558: ScaffShelf2 7
+    2300560: ScaffShelf2 8
+    2300562: SideRail1
+    2300564: SideRail2
+    2300566: SideRailSupp
+    2300568: SideRailSupp1
+    2300570: SideRailSupp2
+    2300572: SideRailSupp3
+    2300574: SideRailSupp4
+    2300576: SideRailSupp5
+    2300578: SideRailSupp6
+    2300580: SideRailSupp7
+    2300582: SideRailSupp8
+    2300584: Stage1AdapterExterior1
+    2300586: Stage1AdapterInterior
+    2300588: Stage1Exterior
+    2300590: Stage1UpperGuard
+    2300592: Stage1UpperTank
+    2300594: Stage1Wing1
+    2300596: Stage1Wing2
+    2300598: Stage1Wing3
+    2300600: Stage1Wing4
+    2300602: Stage2AdapterExterior1
+    2300604: Stage2AdapterInterior1
+    2300606: Stage2Aux1
+    2300608: Stage2Aux2
+    2300610: Stage2CenterEngineRing
+    2300612: Stage2Engine1
+    2300614: Stage2Engine2
+    2300616: Stage2Engine3
+    2300618: Stage2Engine4
+    2300620: Stage2Engine5
+    2300622: Stage2Equip1
+    2300624: Stage2Equip10
+    2300626: Stage2Equip11
+    2300628: Stage2Equip12
+    2300630: Stage2Equip13
+    2300632: Stage2Equip14
+    2300634: Stage2Equip15
+    2300636: Stage2Equip16
+    2300638: Stage2Equip17
+    2300640: Stage2Equip18
+    2300642: Stage2Equip19
+    2300644: Stage2Equip20
+    2300646: Stage2Equip21
+    2300648: Stage2Equip22
+    2300650: Stage2Equip23
+    2300652: Stage2Equip24
+    2300654: Stage2Equip25
+    2300656: Stage2Equip26
+    2300658: Stage2Equip27
+    2300660: Stage2Equip28
+    2300662: Stage2Equip3
+    2300664: Stage2Equip4
+    2300666: Stage2Equip5
+    2300668: Stage2Equip6
+    2300670: Stage2Equip7
+    2300672: Stage2Equip9
+    2300674: Stage2Exterior1
+    2300676: Stage2Hose1
+    2300678: Stage2Hose2
+    2300680: Stage2Hose3
+    2300682: Stage2Hose4
+    2300684: Stage2Hose5
+    2300686: Stage2Interior
+    2300688: Stage2Scaffolding
+    2300690: Stage2TankMon
+    2300692: Stage2TankOut
+    2300694: Stage2TankOut1
+    2300696: Stage2UpperTank
+    2300698: Stage3Exterior1
+    2300700: Stage3ExtLines
+    2300702: Stage3ExtLines1
+    2300704: Stage3ExtLines2
+    2300706: Stage3Garage1
+    2300708: Stage3Garage2
+    2300710: Stage3Garage3
+    2300712: Stage3Garage4
+    2300714: Stage3GarageBase5
+    2300716: Stage3GarageBase6
+    2300718: Stage3GarageBase7
+    2300720: Stage3GarageBase8
+    2300722: Stage3Interior
+    2300724: Stage3Interior1
+    2300726: Stage3LowerTank
+    2300728: Stage3Rocket
+    2300730: Stage3RocketShroud
+    2300732: Stage3Scaffolding
+    2300734: Stage3UpperScaffolding
+    2300736: Stage3UpperTank
+    2300738: SupportCable
+    2300740: SupportCable 1
+    2300742: TankCover1
+    2300744: TankInsullator
+    2300746: TopLight1
+    2300748: TopLight2
+    2300750: TopLight3
+    2300752: TopLight4
+    2300754: TopSideRailShelf
+    2300756: TowerBeam1
+    2300758: TowerBeam1 1
+    2300760: TowerBeam10
+    2300762: TowerBeam11
+    2300764: TowerBeam12
+    2300766: TowerBeam13
+    2300768: TowerBeam14
+    2300770: TowerBeam15
+    2300772: TowerBeam16
+    2300774: TowerBeam17
+    2300776: TowerBeam18
+    2300778: TowerBeam19
+    2300780: TowerBeam2
+    2300782: TowerBeam20
+    2300784: TowerBeam21
+    2300786: TowerBeam22
+    2300788: TowerBeam23
+    2300790: TowerBeam24
+    2300792: TowerBeam25
+    2300794: TowerBeam26
+    2300796: TowerBeam27
+    2300798: TowerBeam28
+    2300800: TowerBeam29
+    2300802: TowerBeam3
+    2300804: TowerBeam30
+    2300806: TowerBeam31
+    2300808: TowerBeam32
+    2300810: TowerBeam33
+    2300812: TowerBeam34
+    2300814: TowerBeam35
+    2300816: TowerBeam36
+    2300818: TowerBeam37
+    2300820: TowerBeam38
+    2300822: TowerBeam39
+    2300824: TowerBeam4
+    2300826: TowerBeam40
+    2300828: TowerBeam41
+    2300830: TowerBeam42
+    2300832: TowerBeam43
+    2300834: TowerBeam44
+    2300836: TowerBeam45
+    2300838: TowerBeam46
+    2300840: TowerBeam47
+    2300842: TowerBeam48
+    2300844: TowerBeam49
+    2300846: TowerBeam5
+    2300848: TowerBeam50
+    2300850: TowerBeam51
+    2300852: TowerBeam52
+    2300854: TowerBeam53
+    2300856: TowerBeam54
+    2300858: TowerBeam55
+    2300860: TowerBeam56
+    2300862: TowerBeam57
+    2300864: TowerBeam58
+    2300866: TowerBeam59
+    2300868: TowerBeam6
+    2300870: TowerBeam60
+    2300872: TowerBeam61
+    2300874: TowerBeam62
+    2300876: TowerBeam63
+    2300878: TowerBeam64
+    2300880: TowerBeam65
+    2300882: TowerBeam7
+    2300884: TowerBeam8
+    2300886: TowerBeam9
+    2300888: TowerSideRail1
+    2300890: TowerSideRail2
+    2300892: TowerSideRail3
+    2300894: TowSupp1
+    2300896: TowSupp1 1
+    2300898: TowSupp10
+    2300900: TowSupp100
+    2300902: TowSupp101
+    2300904: TowSupp102
+    2300906: TowSupp103
+    2300908: TowSupp104
+    2300910: TowSupp105
+    2300912: TowSupp106
+    2300914: TowSupp107
+    2300916: TowSupp108
+    2300918: TowSupp109
+    2300920: TowSupp11
+    2300922: TowSupp110
+    2300924: TowSupp111
+    2300926: TowSupp112
+    2300928: TowSupp113
+    2300930: TowSupp114
+    2300932: TowSupp115
+    2300934: TowSupp116
+    2300936: TowSupp117
+    2300938: TowSupp118
+    2300940: TowSupp119
+    2300942: TowSupp12
+    2300944: TowSupp120
+    2300946: TowSupp121
+    2300948: TowSupp122
+    2300950: TowSupp123
+    2300952: TowSupp124
+    2300954: TowSupp125
+    2300956: TowSupp126
+    2300958: TowSupp127
+    2300960: TowSupp128
+    2300962: TowSupp129
+    2300964: TowSupp13
+    2300966: TowSupp130
+    2300968: TowSupp131
+    2300970: TowSupp132
+    2300972: TowSupp133
+    2300974: TowSupp134
+    2300976: TowSupp135
+    2300978: TowSupp136
+    2300980: TowSupp137
+    2300982: TowSupp138
+    2300984: TowSupp139
+    2300986: TowSupp14
+    2300988: TowSupp140
+    2300990: TowSupp141
+    2300992: TowSupp142
+    2300994: TowSupp143
+    2300996: TowSupp15
+    2300998: TowSupp16
+    2301000: TowSupp17
+    2301002: TowSupp18
+    2301004: TowSupp19
+    2301006: TowSupp2
+    2301008: TowSupp20
+    2301010: TowSupp21
+    2301012: TowSupp22
+    2301014: TowSupp23
+    2301016: TowSupp24
+    2301018: TowSupp25
+    2301020: TowSupp26
+    2301022: TowSupp27
+    2301024: TowSupp28
+    2301026: TowSupp29
+    2301028: TowSupp3
+    2301030: TowSupp30
+    2301032: TowSupp31
+    2301034: TowSupp32
+    2301036: TowSupp33
+    2301038: TowSupp34
+    2301040: TowSupp35
+    2301042: TowSupp36
+    2301044: TowSupp37
+    2301046: TowSupp38
+    2301048: TowSupp39
+    2301050: TowSupp4
+    2301052: TowSupp40
+    2301054: TowSupp41
+    2301056: TowSupp42
+    2301058: TowSupp43
+    2301060: TowSupp44
+    2301062: TowSupp45
+    2301064: TowSupp46
+    2301066: TowSupp47
+    2301068: TowSupp48
+    2301070: TowSupp49
+    2301072: TowSupp5
+    2301074: TowSupp50
+    2301076: TowSupp51
+    2301078: TowSupp52
+    2301080: TowSupp53
+    2301082: TowSupp54
+    2301084: TowSupp55
+    2301086: TowSupp56
+    2301088: TowSupp57
+    2301090: TowSupp58
+    2301092: TowSupp59
+    2301094: TowSupp6
+    2301096: TowSupp60
+    2301098: TowSupp61
+    2301100: TowSupp62
+    2301102: TowSupp63
+    2301104: TowSupp64
+    2301106: TowSupp65
+    2301108: TowSupp66
+    2301110: TowSupp67
+    2301112: TowSupp68
+    2301114: TowSupp69
+    2301116: TowSupp7
+    2301118: TowSupp70
+    2301120: TowSupp71
+    2301122: TowSupp72
+    2301124: TowSupp73
+    2301126: TowSupp74
+    2301128: TowSupp75
+    2301130: TowSupp76
+    2301132: TowSupp77
+    2301134: TowSupp78
+    2301136: TowSupp79
+    2301138: TowSupp8
+    2301140: TowSupp80
+    2301142: TowSupp81
+    2301144: TowSupp82
+    2301146: TowSupp83
+    2301148: TowSupp84
+    2301150: TowSupp85
+    2301152: TowSupp86
+    2301154: TowSupp87
+    2301156: TowSupp88
+    2301158: TowSupp89
+    2301160: TowSupp9
+    2301162: TowSupp90
+    2301164: TowSupp91
+    2301166: TowSupp92
+    2301168: TowSupp93
+    2301170: TowSupp94
+    2301172: TowSupp95
+    2301174: TowSupp96
+    2301176: TowSupp97
+    2301178: TowSupp98
+    2301180: TowSupp99
+    2301182: UmbilicalCover
+    3300000: '! rocket'
+    3300002: AuxHose1
+    3300004: AuxHose2
+    3300006: AuxHose3
+    3300008: AuxHose4
+    3300010: AuxHose5
+    3300012: AuxHose6
+    3300014: Camera1
+    3300016: Camera10
+    3300018: Camera11
+    3300020: Camera12
+    3300022: Camera13
+    3300024: Camera14
+    3300026: Camera15
+    3300028: Camera16
+    3300030: Camera2
+    3300032: Camera3
+    3300034: Camera4
+    3300036: Camera5
+    3300038: Camera6
+    3300040: Camera7
+    3300042: Camera8
+    3300044: Camera9
+    3300046: CranePivot
+    3300048: CraneShed
+    3300050: ElevatorShaft
+    3300052: ElevatorShaft1
+    3300054: ElevatorShaft10
+    3300056: ElevatorShaft11
+    3300058: ElevatorShaft12
+    3300060: ElevatorShaft13
+    3300062: ElevatorShaft14
+    3300064: ElevatorShaft15
+    3300066: ElevatorShaft2
+    3300068: ElevatorShaft2 1
+    3300070: ElevatorShaft3
+    3300072: ElevatorShaft4
+    3300074: ElevatorShaft5
+    3300076: ElevatorShaft6
+    3300078: ElevatorShaft7
+    3300080: ElevatorShaft8
+    3300082: ElevatorShaft9
+    3300084: Engine1Supp1
+    3300086: EscapeHead
+    3300088: EscapeRockets
+    3300090: EscapeScaffolding
+    3300092: ExtPipe1
+    3300094: ExtPipe1 1
+    3300096: ExtPipe1 2
+    3300098: ExtPipe1 3
+    3300100: ExtPipe1 4
+    3300102: ExtPipe1 5
+    3300104: ExtPipe1 6
+    3300106: ExtPipe1 7
+    3300108: ExtPipe2
+    3300110: ExtPipe2 1
+    3300112: ExtPipe2 2
+    3300114: ExtPipe2 3
+    3300116: ExtPipe2 4
+    3300118: ExtPipe2 5
+    3300120: ExtPipe2 6
+    3300122: ExtPipe2 7
+    3300124: extrudedSurface4
+    3300126: extrudedSurface6
+    3300128: extrudedSurface7
+    3300130: extrudedSurface8
+    3300132: F1_Engine2
+    3300134: F1_Engine3
+    3300136: F1_Engine4
+    3300138: F1_Engine5
+    3300140: F1_Engine6
+    3300142: HeliumTanks
+    3300144: HiGain
+    3300146: HLine1
+    3300148: HLine2
+    3300150: HLine3
+    3300152: HLine4
+    3300154: HLine5
+    3300156: Hoist1
+    3300158: Hoist1Spindle
+    3300160: Hoist1Spindle1
+    3300162: Hoist1Support
+    3300164: Hoist1Support1
+    3300166: Hoist2
+    3300168: HydroPipe
+    3300170: HydroPipe 1
+    3300172: HydroPipe 2
+    3300174: HydroPipe 3
+    3300176: HydroPipe 4
+    3300178: HydroPipe 5
+    3300180: HydroPipe 6
+    3300182: HydroPipe 7
+    3300184: HydrShelf
+    3300186: HydrShelf 1
+    3300188: HydrShelf 2
+    3300190: HydrShelf 3
+    3300192: HydrShelf 4
+    3300194: HydrShelf 5
+    3300196: HydrShelf 6
+    3300198: HydrShelf 7
+    3300200: HydrShelf 8
+    3300202: InstrumentUnitExterior1
+    3300204: InstrumentUnitInterior
+    3300206: InstrumentUnitInterior1
+    3300208: IUAnt1
+    3300210: IUAnt2
+    3300212: IUAnt3
+    3300214: IUCoil
+    3300216: IUMesh
+    3300218: LeftScaffolding
+    3300220: LightTower
+    3300222: Line001
+    3300224: LoGain1
+    3300226: LoGain2
+    3300228: LoGain3
+    3300230: LoGain4
+    3300232: MainDockArm
+    3300234: MainDockArm 1
+    3300236: MainDockArm 2
+    3300238: MainDockArm 3
+    3300240: MainDockArm 4
+    3300242: MainDockArm 5
+    3300244: MainDockArm 6
+    3300246: MainDockArm 7
+    3300248: MainDockArm 8
+    3300250: MainLadder1
+    3300252: MainLadder10
+    3300254: MainLadder11
+    3300256: MainLadder12
+    3300258: MainLadder13
+    3300260: MainLadder14
+    3300262: MainLadder15
+    3300264: MainLadder16
+    3300266: MainLadder2
+    3300268: MainLadder3
+    3300270: MainLadder3 1
+    3300272: MainLadder4
+    3300274: MainLadder5
+    3300276: MainLadder6
+    3300278: MainLadder7
+    3300280: MainLadder8
+    3300282: MainLadder9
+    3300284: MainRail1
+    3300286: MainRail10
+    3300288: MainRail11
+    3300290: MainRail12
+    3300292: MainRail13
+    3300294: MainRail14
+    3300296: MainRail15
+    3300298: MainRail16
+    3300300: MainRail17
+    3300302: MainRail18
+    3300304: MainRail2
+    3300306: MainRail3
+    3300308: MainRail4
+    3300310: MainRail5
+    3300312: MainRail5 1
+    3300314: MainRail6
+    3300316: MainRail7
+    3300318: MainRail8
+    3300320: MainRail9
+    3300322: OrbiterENGINE
+    3300324: OrbiterExterior
+    3300326: OrbiterShell
+    3300328: OrbiterVent
+    3300330: pCube17
+    3300332: pCube18
+    3300334: pCube19
+    3300336: pCube20
+    3300338: pCube21
+    3300340: pCube22
+    3300342: pCube23
+    3300344: pCube24
+    3300346: pCube29
+    3300348: pCylinder10
+    3300350: pCylinder11
+    3300352: pCylinder12
+    3300354: pCylinder2
+    3300356: pCylinder3
+    3300358: pCylinder4
+    3300360: pCylinder5
+    3300362: pCylinder6
+    3300364: pCylinder7
+    3300366: pCylinder8
+    3300368: pCylinder9
+    3300370: Plane002
+    3300372: Platform1
+    3300374: Platform10
+    3300376: Platform11
+    3300378: Platform12
+    3300380: Platform13
+    3300382: Platform14
+    3300384: Platform15
+    3300386: Platform16
+    3300388: Platform2
+    3300390: Platform3
+    3300392: Platform3 1
+    3300394: Platform4
+    3300396: Platform5
+    3300398: Platform6
+    3300400: Platform7
+    3300402: Platform8
+    3300404: Platform9
+    3300406: PlatformRail1
+    3300408: PlatformRail10
+    3300410: PlatformRail11
+    3300412: PlatformRail12
+    3300414: PlatformRail13
+    3300416: PlatformRail14
+    3300418: PlatformRail15
+    3300420: PlatformRail16
+    3300422: PlatformRail17
+    3300424: PlatformRail18
+    3300426: PlatformRail19
+    3300428: PlatformRail2
+    3300430: PlatformRail20
+    3300432: PlatformRail21
+    3300434: PlatformRail22
+    3300436: PlatformRail23
+    3300438: PlatformRail24
+    3300440: PlatformRail25
+    3300442: PlatformRail26
+    3300444: PlatformRail27
+    3300446: PlatformRail28
+    3300448: PlatformRail29
+    3300450: PlatformRail3
+    3300452: PlatformRail30
+    3300454: PlatformRail31
+    3300456: PlatformRail32
+    3300458: PlatformRail4
+    3300460: PlatformRail5
+    3300462: PlatformRail5 1
+    3300464: PlatformRail6
+    3300466: PlatformRail6 1
+    3300468: PlatformRail7
+    3300470: PlatformRail8
+    3300472: PlatformRail9
+    3300474: polySurface108
+    3300476: polySurface147
+    3300478: polySurface148
+    3300480: polySurface150
+    3300482: polySurface151
+    3300484: polySurface152
+    3300486: polySurface170
+    3300488: polySurface180
+    3300490: polySurface181
+    3300492: polySurface182
+    3300494: polySurface199
+    3300496: polySurface200
+    3300498: polySurface210
+    3300500: polySurface280
+    3300502: polySurface286
+    3300504: polySurface303
+    3300506: polySurface304
+    3300508: polySurface305
+    3300510: polySurface306
+    3300512: polySurface307
+    3300514: Retro1
+    3300516: Retro2
+    3300518: Retro3
+    3300520: Retro4
+    3300522: RightScaffolding
+    3300524: RocketBasePlate
+    3300526: ScaffShelf1
+    3300528: ScaffShelf1 1
+    3300530: ScaffShelf1 2
+    3300532: ScaffShelf1 3
+    3300534: ScaffShelf1 4
+    3300536: ScaffShelf1 5
+    3300538: ScaffShelf1 6
+    3300540: ScaffShelf1 7
+    3300542: ScaffShelf1 8
+    3300544: ScaffShelf2
+    3300546: ScaffShelf2 1
+    3300548: ScaffShelf2 2
+    3300550: ScaffShelf2 3
+    3300552: ScaffShelf2 4
+    3300554: ScaffShelf2 5
+    3300556: ScaffShelf2 6
+    3300558: ScaffShelf2 7
+    3300560: ScaffShelf2 8
+    3300562: SideRail1
+    3300564: SideRail2
+    3300566: SideRailSupp
+    3300568: SideRailSupp1
+    3300570: SideRailSupp2
+    3300572: SideRailSupp3
+    3300574: SideRailSupp4
+    3300576: SideRailSupp5
+    3300578: SideRailSupp6
+    3300580: SideRailSupp7
+    3300582: SideRailSupp8
+    3300584: Stage1AdapterExterior1
+    3300586: Stage1AdapterInterior
+    3300588: Stage1Exterior
+    3300590: Stage1UpperGuard
+    3300592: Stage1UpperTank
+    3300594: Stage1Wing1
+    3300596: Stage1Wing2
+    3300598: Stage1Wing3
+    3300600: Stage1Wing4
+    3300602: Stage2AdapterExterior1
+    3300604: Stage2AdapterInterior1
+    3300606: Stage2Aux1
+    3300608: Stage2Aux2
+    3300610: Stage2CenterEngineRing
+    3300612: Stage2Engine1
+    3300614: Stage2Engine2
+    3300616: Stage2Engine3
+    3300618: Stage2Engine4
+    3300620: Stage2Engine5
+    3300622: Stage2Equip1
+    3300624: Stage2Equip10
+    3300626: Stage2Equip11
+    3300628: Stage2Equip12
+    3300630: Stage2Equip13
+    3300632: Stage2Equip14
+    3300634: Stage2Equip15
+    3300636: Stage2Equip16
+    3300638: Stage2Equip17
+    3300640: Stage2Equip18
+    3300642: Stage2Equip19
+    3300644: Stage2Equip20
+    3300646: Stage2Equip21
+    3300648: Stage2Equip22
+    3300650: Stage2Equip23
+    3300652: Stage2Equip24
+    3300654: Stage2Equip25
+    3300656: Stage2Equip26
+    3300658: Stage2Equip27
+    3300660: Stage2Equip28
+    3300662: Stage2Equip3
+    3300664: Stage2Equip4
+    3300666: Stage2Equip5
+    3300668: Stage2Equip6
+    3300670: Stage2Equip7
+    3300672: Stage2Equip9
+    3300674: Stage2Exterior1
+    3300676: Stage2Hose1
+    3300678: Stage2Hose2
+    3300680: Stage2Hose3
+    3300682: Stage2Hose4
+    3300684: Stage2Hose5
+    3300686: Stage2Interior
+    3300688: Stage2Scaffolding
+    3300690: Stage2TankMon
+    3300692: Stage2TankOut
+    3300694: Stage2TankOut1
+    3300696: Stage2UpperTank
+    3300698: Stage3Exterior1
+    3300700: Stage3ExtLines
+    3300702: Stage3ExtLines1
+    3300704: Stage3ExtLines2
+    3300706: Stage3Garage1
+    3300708: Stage3Garage2
+    3300710: Stage3Garage3
+    3300712: Stage3Garage4
+    3300714: Stage3GarageBase5
+    3300716: Stage3GarageBase6
+    3300718: Stage3GarageBase7
+    3300720: Stage3GarageBase8
+    3300722: Stage3Interior
+    3300724: Stage3Interior1
+    3300726: Stage3LowerTank
+    3300728: Stage3Rocket
+    3300730: Stage3RocketShroud
+    3300732: Stage3Scaffolding
+    3300734: Stage3UpperScaffolding
+    3300736: Stage3UpperTank
+    3300738: SupportCable
+    3300740: SupportCable 1
+    3300742: TankCover1
+    3300744: TankInsullator
+    3300746: TopLight1
+    3300748: TopLight2
+    3300750: TopLight3
+    3300752: TopLight4
+    3300754: TopSideRailShelf
+    3300756: TowerBeam1
+    3300758: TowerBeam1 1
+    3300760: TowerBeam10
+    3300762: TowerBeam11
+    3300764: TowerBeam12
+    3300766: TowerBeam13
+    3300768: TowerBeam14
+    3300770: TowerBeam15
+    3300772: TowerBeam16
+    3300774: TowerBeam17
+    3300776: TowerBeam18
+    3300778: TowerBeam19
+    3300780: TowerBeam2
+    3300782: TowerBeam20
+    3300784: TowerBeam21
+    3300786: TowerBeam22
+    3300788: TowerBeam23
+    3300790: TowerBeam24
+    3300792: TowerBeam25
+    3300794: TowerBeam26
+    3300796: TowerBeam27
+    3300798: TowerBeam28
+    3300800: TowerBeam29
+    3300802: TowerBeam3
+    3300804: TowerBeam30
+    3300806: TowerBeam31
+    3300808: TowerBeam32
+    3300810: TowerBeam33
+    3300812: TowerBeam34
+    3300814: TowerBeam35
+    3300816: TowerBeam36
+    3300818: TowerBeam37
+    3300820: TowerBeam38
+    3300822: TowerBeam39
+    3300824: TowerBeam4
+    3300826: TowerBeam40
+    3300828: TowerBeam41
+    3300830: TowerBeam42
+    3300832: TowerBeam43
+    3300834: TowerBeam44
+    3300836: TowerBeam45
+    3300838: TowerBeam46
+    3300840: TowerBeam47
+    3300842: TowerBeam48
+    3300844: TowerBeam49
+    3300846: TowerBeam5
+    3300848: TowerBeam50
+    3300850: TowerBeam51
+    3300852: TowerBeam52
+    3300854: TowerBeam53
+    3300856: TowerBeam54
+    3300858: TowerBeam55
+    3300860: TowerBeam56
+    3300862: TowerBeam57
+    3300864: TowerBeam58
+    3300866: TowerBeam59
+    3300868: TowerBeam6
+    3300870: TowerBeam60
+    3300872: TowerBeam61
+    3300874: TowerBeam62
+    3300876: TowerBeam63
+    3300878: TowerBeam64
+    3300880: TowerBeam65
+    3300882: TowerBeam7
+    3300884: TowerBeam8
+    3300886: TowerBeam9
+    3300888: TowerSideRail1
+    3300890: TowerSideRail2
+    3300892: TowerSideRail3
+    3300894: TowSupp1
+    3300896: TowSupp1 1
+    3300898: TowSupp10
+    3300900: TowSupp100
+    3300902: TowSupp101
+    3300904: TowSupp102
+    3300906: TowSupp103
+    3300908: TowSupp104
+    3300910: TowSupp105
+    3300912: TowSupp106
+    3300914: TowSupp107
+    3300916: TowSupp108
+    3300918: TowSupp109
+    3300920: TowSupp11
+    3300922: TowSupp110
+    3300924: TowSupp111
+    3300926: TowSupp112
+    3300928: TowSupp113
+    3300930: TowSupp114
+    3300932: TowSupp115
+    3300934: TowSupp116
+    3300936: TowSupp117
+    3300938: TowSupp118
+    3300940: TowSupp119
+    3300942: TowSupp12
+    3300944: TowSupp120
+    3300946: TowSupp121
+    3300948: TowSupp122
+    3300950: TowSupp123
+    3300952: TowSupp124
+    3300954: TowSupp125
+    3300956: TowSupp126
+    3300958: TowSupp127
+    3300960: TowSupp128
+    3300962: TowSupp129
+    3300964: TowSupp13
+    3300966: TowSupp130
+    3300968: TowSupp131
+    3300970: TowSupp132
+    3300972: TowSupp133
+    3300974: TowSupp134
+    3300976: TowSupp135
+    3300978: TowSupp136
+    3300980: TowSupp137
+    3300982: TowSupp138
+    3300984: TowSupp139
+    3300986: TowSupp14
+    3300988: TowSupp140
+    3300990: TowSupp141
+    3300992: TowSupp142
+    3300994: TowSupp143
+    3300996: TowSupp15
+    3300998: TowSupp16
+    3301000: TowSupp17
+    3301002: TowSupp18
+    3301004: TowSupp19
+    3301006: TowSupp2
+    3301008: TowSupp20
+    3301010: TowSupp21
+    3301012: TowSupp22
+    3301014: TowSupp23
+    3301016: TowSupp24
+    3301018: TowSupp25
+    3301020: TowSupp26
+    3301022: TowSupp27
+    3301024: TowSupp28
+    3301026: TowSupp29
+    3301028: TowSupp3
+    3301030: TowSupp30
+    3301032: TowSupp31
+    3301034: TowSupp32
+    3301036: TowSupp33
+    3301038: TowSupp34
+    3301040: TowSupp35
+    3301042: TowSupp36
+    3301044: TowSupp37
+    3301046: TowSupp38
+    3301048: TowSupp39
+    3301050: TowSupp4
+    3301052: TowSupp40
+    3301054: TowSupp41
+    3301056: TowSupp42
+    3301058: TowSupp43
+    3301060: TowSupp44
+    3301062: TowSupp45
+    3301064: TowSupp46
+    3301066: TowSupp47
+    3301068: TowSupp48
+    3301070: TowSupp49
+    3301072: TowSupp5
+    3301074: TowSupp50
+    3301076: TowSupp51
+    3301078: TowSupp52
+    3301080: TowSupp53
+    3301082: TowSupp54
+    3301084: TowSupp55
+    3301086: TowSupp56
+    3301088: TowSupp57
+    3301090: TowSupp58
+    3301092: TowSupp59
+    3301094: TowSupp6
+    3301096: TowSupp60
+    3301098: TowSupp61
+    3301100: TowSupp62
+    3301102: TowSupp63
+    3301104: TowSupp64
+    3301106: TowSupp65
+    3301108: TowSupp66
+    3301110: TowSupp67
+    3301112: TowSupp68
+    3301114: TowSupp69
+    3301116: TowSupp7
+    3301118: TowSupp70
+    3301120: TowSupp71
+    3301122: TowSupp72
+    3301124: TowSupp73
+    3301126: TowSupp74
+    3301128: TowSupp75
+    3301130: TowSupp76
+    3301132: TowSupp77
+    3301134: TowSupp78
+    3301136: TowSupp79
+    3301138: TowSupp8
+    3301140: TowSupp80
+    3301142: TowSupp81
+    3301144: TowSupp82
+    3301146: TowSupp83
+    3301148: TowSupp84
+    3301150: TowSupp85
+    3301152: TowSupp86
+    3301154: TowSupp87
+    3301156: TowSupp88
+    3301158: TowSupp89
+    3301160: TowSupp9
+    3301162: TowSupp90
+    3301164: TowSupp91
+    3301166: TowSupp92
+    3301168: TowSupp93
+    3301170: TowSupp94
+    3301172: TowSupp95
+    3301174: TowSupp96
+    3301176: TowSupp97
+    3301178: TowSupp98
+    3301180: TowSupp99
+    3301182: UmbilicalCover
+    4300000: '! rocket'
+    4300002: LoGain4
+    4300004: IUAnt3
+    4300006: Stage3LowerTank
+    4300008: Stage3UpperTank
+    4300010: Stage3RocketShroud
+    4300012: Stage3ExtLines1
+    4300014: Stage3ExtLines2
+    4300016: Stage3ExtLines
+    4300018: InstrumentUnitExterior1
+    4300020: Stage3GarageBase8
+    4300022: Stage3GarageBase7
+    4300024: Stage3GarageBase6
+    4300026: Stage3Interior1
+    4300028: Stage3Scaffolding
+    4300030: Stage3UpperScaffolding
+    4300032: HeliumTanks
+    4300034: Stage3Rocket
+    4300036: IUCoil
+    4300038: IUMesh
+    4300040: InstrumentUnitInterior
+    4300042: InstrumentUnitInterior1
+    4300044: IUAnt1
+    4300046: IUAnt2
+    4300048: Stage3GarageBase5
+    4300050: Stage3Exterior1
+    4300052: Stage3Garage4
+    4300054: Stage3Garage3
+    4300056: Stage3Garage2
+    4300058: Stage3Garage1
+    4300060: OrbiterExterior
+    4300062: OrbiterShell
+    4300064: Retro4
+    4300066: Retro3
+    4300068: Retro2
+    4300070: Retro1
+    4300072: LoGain1
+    4300074: LoGain2
+    4300076: LoGain3
+    4300078: OrbiterENGINE
+    4300080: HiGain
+    4300082: OrbiterVent
+    4300084: UmbilicalCover
+    4300086: TankCover1
+    4300088: TankInsullator
+    4300090: AuxHose6
+    4300092: AuxHose5
+    4300094: Stage2Hose3
+    4300096: Stage2Equip1
+    4300098: Stage2Equip20
+    4300100: Stage2TankOut1
+    4300102: Stage2TankOut
+    4300104: Stage2Equip17
+    4300106: Stage2Equip16
+    4300108: Stage2Aux1
+    4300110: Stage2Equip13
+    4300112: Stage2Equip15
+    4300114: Stage2Equip14
+    4300116: Stage2Equip18
+    4300118: Stage2Equip19
+    4300120: Stage2Equip22
+    4300122: Stage2Equip21
+    4300124: Stage2Equip23
+    4300126: Stage2Hose5
+    4300128: Stage2Equip25
+    4300130: Stage2Equip24
+    4300132: Stage2Hose4
+    4300134: Stage2Hose2
+    4300136: Stage2Hose1
+    4300138: Stage2Equip4
+    4300140: Stage2Equip5
+    4300142: Stage2Aux2
+    4300144: Stage2Equip3
+    4300146: Stage2Equip26
+    4300148: Stage2Equip28
+    4300150: Stage2Equip27
+    4300152: Stage2Equip6
+    4300154: Stage2Equip7
+    4300156: Stage2Equip12
+    4300158: Stage2Equip10
+    4300160: Stage2Equip11
+    4300162: Stage2Equip9
+    4300164: Stage2CenterEngineRing
+    4300166: Stage2Exterior1
+    4300168: Stage2Scaffolding
+    4300170: Stage2UpperTank
+    4300172: Stage2TankMon
+    4300174: Stage2Engine1
+    4300176: Stage2Engine2
+    4300178: Stage2Engine3
+    4300180: Stage2Engine4
+    4300182: Stage2Engine5
+    4300184: Stage2Interior
+    4300186: Stage2AdapterExterior1
+    4300188: Stage2AdapterInterior1
+    4300190: AuxHose3
+    4300192: AuxHose2
+    4300194: AuxHose4
+    4300196: AuxHose1
+    4300198: Stage1Wing1
+    4300200: Engine1Supp1
+    4300202: F1_Engine2
+    4300204: F1_Engine3
+    4300206: F1_Engine4
+    4300208: F1_Engine5
+    4300210: F1_Engine6
+    4300212: RocketBasePlate
+    4300214: Stage1UpperTank
+    4300216: Stage1UpperGuard
+    4300218: Stage1Exterior
+    4300220: Stage3Interior
+    4300222: Stage1AdapterInterior
+    4300224: Stage1AdapterExterior1
+    4300226: Stage1Wing2
+    4300228: Stage1Wing3
+    4300230: Stage1Wing4
+    4300232: EscapeRockets
+    4300234: EscapeScaffolding
+    4300236: EscapeHead
+    4300238: Plane002
+    4300240: polySurface280
+    4300242: pCube29
+    4300244: ScaffShelf2
+    4300246: HydrShelf
+    4300248: MainDockArm
+    4300250: ScaffShelf1
+    4300252: ExtPipe2
+    4300254: ExtPipe1
+    4300256: ScaffShelf1
+    4300258: ScaffShelf2
+    4300260: HydrShelf
+    4300262: MainDockArm
+    4300264: HydroPipe
+    4300266: SideRailSupp1
+    4300268: ExtPipe2
+    4300270: ExtPipe1
+    4300272: ScaffShelf1
+    4300274: ScaffShelf2
+    4300276: HydrShelf
+    4300278: MainDockArm
+    4300280: HydroPipe
+    4300282: Camera16
+    4300284: Camera15
+    4300286: Camera14
+    4300288: Camera13
+    4300290: Camera12
+    4300292: Camera11
+    4300294: Camera10
+    4300296: Camera9
+    4300298: Camera8
+    4300300: Camera7
+    4300302: Camera6
+    4300304: Camera5
+    4300306: Camera4
+    4300308: Camera3
+    4300310: Camera2
+    4300312: Camera1
+    4300314: TopLight4
+    4300316: TopLight3
+    4300318: TopLight2
+    4300320: TopLight1
+    4300322: LightTower
+    4300324: pCylinder12
+    4300326: pCylinder11
+    4300328: pCylinder10
+    4300330: pCylinder9
+    4300332: pCylinder8
+    4300334: pCylinder7
+    4300336: pCylinder6
+    4300338: extrudedSurface8
+    4300340: extrudedSurface7
+    4300342: extrudedSurface6
+    4300344: polySurface307
+    4300346: SupportCable
+    4300348: SideRailSupp8
+    4300350: extrudedSurface4
+    4300352: HLine5
+    4300354: SideRailSupp7
+    4300356: SideRailSupp6
+    4300358: polySurface306
+    4300360: SupportCable
+    4300362: SideRailSupp5
+    4300364: SideRailSupp4
+    4300366: HLine4
+    4300368: HLine3
+    4300370: polySurface305
+    4300372: SideRailSupp3
+    4300374: polySurface304
+    4300376: SideRailSupp2
+    4300378: polySurface303
+    4300380: HLine2
+    4300382: HLine1
+    4300384: TopSideRailShelf
+    4300386: LeftScaffolding
+    4300388: RightScaffolding
+    4300390: SideRailSupp
+    4300392: SideRail2
+    4300394: SideRail1
+    4300396: Hoist1Support1
+    4300398: Hoist1Spindle1
+    4300400: Hoist2
+    4300402: Hoist1Support
+    4300404: Hoist1Spindle
+    4300406: Hoist1
+    4300408: polySurface200
+    4300410: polySurface199
+    4300412: pCylinder5
+    4300414: pCylinder4
+    4300416: polySurface182
+    4300418: pCylinder3
+    4300420: pCube24
+    4300422: pCube23
+    4300424: polySurface181
+    4300426: polySurface180
+    4300428: polySurface170
+    4300430: CraneShed
+    4300432: polySurface152
+    4300434: CranePivot
+    4300436: pCylinder2
+    4300438: TowSupp143
+    4300440: TowerBeam65
+    4300442: TowSupp142
+    4300444: TowSupp141
+    4300446: TowerBeam64
+    4300448: TowSupp140
+    4300450: TowSupp137
+    4300452: TowSupp136
+    4300454: TowerBeam63
+    4300456: TowerBeam62
+    4300458: TowSupp135
+    4300460: TowerBeam61
+    4300462: TowSupp134
+    4300464: TowSupp133
+    4300466: TowerBeam60
+    4300468: TowSupp132
+    4300470: TowSupp129
+    4300472: TowSupp128
+    4300474: MainRail18
+    4300476: MainLadder16
+    4300478: TowerBeam59
+    4300480: TowerBeam58
+    4300482: PlatformRail32
+    4300484: PlatformRail31
+    4300486: Platform16
+    4300488: ElevatorShaft15
+    4300490: TowSupp127
+    4300492: TowerBeam57
+    4300494: TowSupp126
+    4300496: TowSupp125
+    4300498: TowerBeam56
+    4300500: TowSupp124
+    4300502: TowSupp121
+    4300504: TowSupp120
+    4300506: MainRail17
+    4300508: MainLadder15
+    4300510: TowerBeam55
+    4300512: TowerBeam54
+    4300514: PlatformRail30
+    4300516: PlatformRail29
+    4300518: Platform15
+    4300520: ElevatorShaft14
+    4300522: TowSupp119
+    4300524: TowerBeam53
+    4300526: TowSupp118
+    4300528: TowSupp117
+    4300530: TowerBeam52
+    4300532: TowSupp116
+    4300534: TowSupp113
+    4300536: TowSupp112
+    4300538: MainRail16
+    4300540: MainLadder14
+    4300542: TowerBeam51
+    4300544: TowerBeam50
+    4300546: PlatformRail28
+    4300548: PlatformRail27
+    4300550: Platform14
+    4300552: ElevatorShaft13
+    4300554: TowSupp111
+    4300556: TowerBeam49
+    4300558: TowSupp110
+    4300560: TowSupp109
+    4300562: TowerBeam48
+    4300564: TowSupp108
+    4300566: TowSupp105
+    4300568: TowSupp104
+    4300570: MainRail15
+    4300572: MainLadder13
+    4300574: TowerBeam47
+    4300576: TowerBeam46
+    4300578: PlatformRail26
+    4300580: PlatformRail25
+    4300582: Platform13
+    4300584: ElevatorShaft12
+    4300586: TowSupp103
+    4300588: TowerBeam45
+    4300590: TowSupp102
+    4300592: TowSupp101
+    4300594: TowerBeam44
+    4300596: TowSupp100
+    4300598: TowSupp97
+    4300600: TowSupp96
+    4300602: MainRail14
+    4300604: MainLadder12
+    4300606: TowerBeam43
+    4300608: TowerBeam42
+    4300610: PlatformRail24
+    4300612: PlatformRail23
+    4300614: Platform12
+    4300616: ElevatorShaft11
+    4300618: TowSupp95
+    4300620: TowerBeam41
+    4300622: TowSupp94
+    4300624: TowSupp93
+    4300626: TowerBeam40
+    4300628: TowSupp92
+    4300630: TowSupp89
+    4300632: TowSupp88
+    4300634: MainRail13
+    4300636: MainLadder11
+    4300638: TowerBeam39
+    4300640: TowerBeam38
+    4300642: PlatformRail22
+    4300644: PlatformRail21
+    4300646: Platform11
+    4300648: ElevatorShaft10
+    4300650: TowSupp87
+    4300652: TowerBeam37
+    4300654: TowSupp86
+    4300656: TowSupp85
+    4300658: TowerBeam36
+    4300660: TowSupp84
+    4300662: TowSupp81
+    4300664: TowSupp80
+    4300666: MainRail12
+    4300668: MainLadder10
+    4300670: TowerBeam35
+    4300672: TowerBeam34
+    4300674: PlatformRail20
+    4300676: PlatformRail19
+    4300678: Platform10
+    4300680: ElevatorShaft9
+    4300682: TowSupp79
+    4300684: TowerBeam33
+    4300686: TowSupp78
+    4300688: TowSupp77
+    4300690: TowerBeam32
+    4300692: TowSupp76
+    4300694: TowSupp73
+    4300696: TowSupp72
+    4300698: MainRail11
+    4300700: MainLadder9
+    4300702: TowerBeam31
+    4300704: TowerBeam30
+    4300706: PlatformRail18
+    4300708: PlatformRail17
+    4300710: Platform9
+    4300712: ElevatorShaft8
+    4300714: TowSupp71
+    4300716: TowerBeam29
+    4300718: TowSupp70
+    4300720: TowSupp69
+    4300722: TowerBeam28
+    4300724: TowSupp68
+    4300726: TowSupp65
+    4300728: TowSupp64
+    4300730: MainRail10
+    4300732: MainLadder8
+    4300734: TowerBeam27
+    4300736: TowerBeam26
+    4300738: PlatformRail16
+    4300740: PlatformRail15
+    4300742: Platform8
+    4300744: ElevatorShaft7
+    4300746: TowSupp63
+    4300748: TowerBeam25
+    4300750: TowSupp62
+    4300752: TowSupp61
+    4300754: TowerBeam24
+    4300756: TowSupp60
+    4300758: TowSupp57
+    4300760: TowSupp56
+    4300762: MainRail9
+    4300764: MainLadder7
+    4300766: TowerBeam23
+    4300768: TowerBeam22
+    4300770: PlatformRail14
+    4300772: PlatformRail13
+    4300774: Platform7
+    4300776: ElevatorShaft6
+    4300778: TowSupp55
+    4300780: TowerBeam21
+    4300782: TowSupp54
+    4300784: TowSupp53
+    4300786: TowerBeam20
+    4300788: TowSupp52
+    4300790: TowSupp49
+    4300792: TowSupp48
+    4300794: MainRail8
+    4300796: MainLadder6
+    4300798: TowerBeam19
+    4300800: TowerBeam18
+    4300802: PlatformRail12
+    4300804: PlatformRail11
+    4300806: Platform6
+    4300808: ElevatorShaft5
+    4300810: TowSupp47
+    4300812: TowerBeam17
+    4300814: TowSupp46
+    4300816: TowSupp45
+    4300818: TowerBeam16
+    4300820: TowSupp44
+    4300822: TowSupp41
+    4300824: TowSupp40
+    4300826: MainRail7
+    4300828: MainLadder5
+    4300830: TowerBeam15
+    4300832: TowerBeam14
+    4300834: PlatformRail10
+    4300836: PlatformRail9
+    4300838: Platform5
+    4300840: ElevatorShaft4
+    4300842: TowSupp39
+    4300844: TowerBeam13
+    4300846: TowSupp38
+    4300848: TowSupp37
+    4300850: TowerBeam12
+    4300852: TowSupp36
+    4300854: TowSupp33
+    4300856: TowSupp32
+    4300858: MainRail6
+    4300860: MainLadder4
+    4300862: TowerBeam11
+    4300864: TowerBeam10
+    4300866: PlatformRail8
+    4300868: PlatformRail7
+    4300870: Platform4
+    4300872: ElevatorShaft3
+    4300874: TowSupp31
+    4300876: TowerBeam9
+    4300878: TowSupp30
+    4300880: TowSupp29
+    4300882: pCube22
+    4300884: TowSupp28
+    4300886: TowSupp27
+    4300888: pCube21
+    4300890: TowSupp26
+    4300892: TowSupp25
+    4300894: pCube20
+    4300896: TowSupp24
+    4300898: TowSupp23
+    4300900: TowerBeam8
+    4300902: TowSupp22
+    4300904: TowSupp21
+    4300906: TowerBeam7
+    4300908: TowSupp20
+    4300910: TowSupp19
+    4300912: TowerBeam6
+    4300914: TowSupp18
+    4300916: TowSupp17
+    4300918: TowSupp16
+    4300920: TowerBeam5
+    4300922: TowSupp5
+    4300924: TowSupp1
+    4300926: TowSupp139
+    4300928: TowSupp138
+    4300930: TowSupp131
+    4300932: TowSupp130
+    4300934: TowSupp123
+    4300936: TowSupp122
+    4300938: TowSupp115
+    4300940: TowSupp114
+    4300942: TowSupp107
+    4300944: TowSupp106
+    4300946: TowSupp99
+    4300948: TowSupp98
+    4300950: TowSupp91
+    4300952: TowSupp90
+    4300954: TowSupp83
+    4300956: TowSupp82
+    4300958: TowSupp75
+    4300960: TowSupp74
+    4300962: TowSupp67
+    4300964: TowSupp66
+    4300966: TowSupp59
+    4300968: TowSupp58
+    4300970: TowSupp51
+    4300972: TowSupp50
+    4300974: TowSupp43
+    4300976: TowSupp42
+    4300978: TowSupp35
+    4300980: TowSupp34
+    4300982: TowSupp9
+    4300984: TowSupp1
+    4300986: TowSupp10
+    4300988: TowSupp11
+    4300990: TowSupp12
+    4300992: TowSupp13
+    4300994: TowSupp14
+    4300996: TowSupp15
+    4300998: TowSupp4
+    4301000: TowSupp8
+    4301002: polySurface286
+    4301004: TowerSideRail3
+    4301006: TowerSideRail1
+    4301008: TowSupp3
+    4301010: TowSupp7
+    4301012: MainRail5
+    4301014: MainLadder3
+    4301016: TowerBeam4
+    4301018: TowerBeam3
+    4301020: PlatformRail6
+    4301022: PlatformRail5
+    4301024: Platform3
+    4301026: ElevatorShaft2
+    4301028: pCube19
+    4301030: TowerBeam1
+    4301032: MainRail5
+    4301034: MainLadder3
+    4301036: PlatformRail6
+    4301038: PlatformRail5
+    4301040: Platform3
+    4301042: ElevatorShaft2
+    4301044: TowSupp2
+    4301046: TowSupp6
+    4301048: polySurface151
+    4301050: polySurface150
+    4301052: polySurface148
+    4301054: polySurface147
+    4301056: TowerBeam1
+    4301058: TowerBeam2
+    4301060: pCube17
+    4301062: pCube18
+    4301064: TowerSideRail2
+    4301066: MainRail4
+    4301068: MainLadder2
+    4301070: MainRail3
+    4301072: PlatformRail4
+    4301074: PlatformRail3
+    4301076: Platform2
+    4301078: ElevatorShaft1
+    4301080: PlatformRail1
+    4301082: PlatformRail2
+    4301084: MainRail2
+    4301086: MainLadder1
+    4301088: MainRail1
+    4301090: ElevatorShaft
+    4301092: Platform1
+    4301094: polySurface108
+    4301096: ExtPipe2
+    4301098: ExtPipe1
+    4301100: ScaffShelf1
+    4301102: ScaffShelf2
+    4301104: HydrShelf
+    4301106: MainDockArm
+    4301108: HydroPipe
+    4301110: ExtPipe2
+    4301112: ExtPipe1
+    4301114: ScaffShelf1
+    4301116: ScaffShelf2
+    4301118: HydrShelf
+    4301120: HydroPipe
+    4301122: MainDockArm
+    4301124: ExtPipe2
+    4301126: ExtPipe1
+    4301128: ScaffShelf2
+    4301130: HydrShelf
+    4301132: ScaffShelf1
+    4301134: MainDockArm
+    4301136: HydroPipe
+    4301138: ExtPipe2
+    4301140: ExtPipe1
+    4301142: ScaffShelf1
+    4301144: ScaffShelf2
+    4301146: HydrShelf
+    4301148: HydroPipe
+    4301150: MainDockArm
+    4301152: HydroPipe
+    4301154: ScaffShelf2
+    4301156: HydrShelf
+    4301158: ScaffShelf1
+    4301160: ExtPipe1
+    4301162: ExtPipe2
+    4301164: MainDockArm
+    4301166: HydroPipe
+    4301168: ExtPipe2
+    4301170: ExtPipe1
+    4301172: ScaffShelf1
+    4301174: ScaffShelf2
+    4301176: HydrShelf
+    4301178: MainDockArm
+    4301180: polySurface210
+    4301182: Line001
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.001
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
